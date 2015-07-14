@@ -1,2 +1,2 @@
-# sc
+# ssch
 scala school
